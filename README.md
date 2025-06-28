@@ -1,4 +1,4 @@
-# Test Loca;e
+# Test Locale
 
 > [!WARNING]
 > **HERE BE DRAGONS**
