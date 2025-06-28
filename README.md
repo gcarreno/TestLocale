@@ -39,4 +39,4 @@ My goal is to change that.
 > If you haven't downloaded and installed a second language on your system, the part that deals with `DefaultFormatSettings` will do nothing.
 
 Having said that, you can look at the unit [myclocale](src/myclocale.pas) in order to see what happens.
-The application named [test-locale-gui](https://github.com/gcarreno/TestLocale/blob/c27a35299db7e26d53c55c8c2dc9261bef0c092f/src-gui/forms/forms.main.pas#L82) has the code to trigger both the language and the format settings change.
+The application named [test-locale-gui](https://github.com/gcarreno/TestLocale/blob/main/src-gui/forms/forms.main.pas#L82) has the code to trigger both the language and the format settings change.
