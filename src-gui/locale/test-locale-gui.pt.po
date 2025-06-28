@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gustavo 'Gus' Carreno <guscarreno@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+#: tfrmmain.actfileexit.caption
+msgid "E&xit"
+msgstr "&Sair"
+
+#: tfrmmain.actfileexit.hint
+msgid "Exit"
+msgstr "Sair"
+
+#: tfrmmain.actlocaledatetime.caption
+msgid "&DateTime"
+msgstr "&DateTime"
+
+#: tfrmmain.actlocalenumbers.caption
+msgid "&Numbers"
+msgstr "&Numeros"
+
+#: tfrmmain.actlocaleshow.caption
+msgid "&Show Locale"
+msgstr "Mo&strar Localização"
+
+#: tfrmmain.caption
+msgid "Test Locale"
+msgstr "Testar Localização"
+
+#: tfrmmain.mnufile.caption
+msgid "&File"
+msgstr "&Ficheiro"
+
+#: tfrmmain.mnulocale.caption
+msgid "&Locale"
+msgstr "&Locale"

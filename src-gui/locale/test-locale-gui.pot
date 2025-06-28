@@ -1,0 +1,35 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tfrmmain.actfileexit.caption
+msgid "E&xit"
+msgstr ""
+
+#: tfrmmain.actfileexit.hint
+msgid "Exit"
+msgstr ""
+
+#: tfrmmain.actlocaledatetime.caption
+msgid "&DateTime"
+msgstr ""
+
+#: tfrmmain.actlocalenumbers.caption
+msgid "&Numbers"
+msgstr ""
+
+#: tfrmmain.actlocaleshow.caption
+msgid "&Show Locale"
+msgstr ""
+
+#: tfrmmain.caption
+msgid "Test Locale"
+msgstr ""
+
+#: tfrmmain.mnufile.caption
+msgid "&File"
+msgstr ""
+
+#: tfrmmain.mnulocale.caption
+msgid "&Locale"
+msgstr ""
+

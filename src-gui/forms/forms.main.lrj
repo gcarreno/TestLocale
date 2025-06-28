@@ -1,0 +1,10 @@
+{"version":1,"strings":[
+{"hash":93281861,"name":"tfrmmain.caption","sourcebytes":[84,101,115,116,32,76,111,99,97,108,101],"value":"Test Locale"},
+{"hash":2805797,"name":"tfrmmain.mnufile.caption","sourcebytes":[38,70,105,108,101],"value":"&File"},
+{"hash":188061701,"name":"tfrmmain.mnulocale.caption","sourcebytes":[38,76,111,99,97,108,101],"value":"&Locale"},
+{"hash":4710148,"name":"tfrmmain.actfileexit.caption","sourcebytes":[69,38,120,105,116],"value":"E&xit"},
+{"hash":315140,"name":"tfrmmain.actfileexit.hint","sourcebytes":[69,120,105,116],"value":"Exit"},
+{"hash":128737973,"name":"tfrmmain.actlocaleshow.caption","sourcebytes":[38,83,104,111,119,32,76,111,99,97,108,101],"value":"&Show Locale"},
+{"hash":96701987,"name":"tfrmmain.actlocalenumbers.caption","sourcebytes":[38,78,117,109,98,101,114,115],"value":"&Numbers"},
+{"hash":145393301,"name":"tfrmmain.actlocaledatetime.caption","sourcebytes":[38,68,97,116,101,84,105,109,101],"value":"&DateTime"}
+]}
