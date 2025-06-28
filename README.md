@@ -4,7 +4,7 @@
 > **HERE BE DRAGONS**
 >
 > This is a playground for messing about with localization **under Linux**, especially for `DefaultFormatSettings`.\
-> This is **not for Windows**. That's done with something else and it outside of the scope of this exercise.
+> This is **not for Windows**. That's done with something else and it's outside the scope of this exercise.
 
 The goal of this little project is to attempt to change the language of any application on the fly.
 
