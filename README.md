@@ -3,7 +3,8 @@
 > [!WARNING]
 > **HERE BE DRAGONS**
 >
-> This is a playground for messing about with localization under Linux, especially for `DefaultFormatSettings`.
+> This is a playground for messing about with localization **under Linux**, especially for `DefaultFormatSettings`.\
+> This is **not for Windows**. That's done with something else and it outside of the scope of this exercise.
 
 The goal of this little project is to attempt to change the language of any application on the fly.
 
@@ -39,4 +40,6 @@ My goal is to change that.
 > If you haven't downloaded and installed a second language on your system, the part that deals with `DefaultFormatSettings` will do nothing.
 
 Having said that, you can look at the unit [myclocale](src/myclocale.pas) in order to see what happens.
+This unit is just a copy of the `clocale` unit that comes with Free Pascal.
+
 The application named [test-locale-gui](https://github.com/gcarreno/TestLocale/blob/main/src-gui/forms/forms.main.pas#L82) has the code to trigger both the language and the format settings change.
